@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\middleware\obj\Debug\net6.0\middleware.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\middleware\obj\Debug\net6.0\middleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\middleware\obj\Debug\net6.0\middleware.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\middleware\obj\Debug\net6.0\middleware.AssemblyInfo.cs
+C:\Users\user\source\repos\middleware\obj\Debug\net6.0\middleware.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\middleware\bin\Debug\net6.0\middleware.exe
+C:\Users\user\source\repos\middleware\bin\Debug\net6.0\middleware.deps.json
+C:\Users\user\source\repos\middleware\bin\Debug\net6.0\middleware.runtimeconfig.json
+C:\Users\user\source\repos\middleware\bin\Debug\net6.0\middleware.dll
+C:\Users\user\source\repos\middleware\bin\Debug\net6.0\middleware.pdb
+C:\Users\user\source\repos\middleware\obj\Debug\net6.0\middleware.dll
+C:\Users\user\source\repos\middleware\obj\Debug\net6.0\refint\middleware.dll
+C:\Users\user\source\repos\middleware\obj\Debug\net6.0\middleware.pdb
+C:\Users\user\source\repos\middleware\obj\Debug\net6.0\middleware.genruntimeconfig.cache
+C:\Users\user\source\repos\middleware\obj\Debug\net6.0\ref\middleware.dll
